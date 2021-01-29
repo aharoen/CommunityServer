@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/user/onlyofficeTV"><img alt="https://www.youtube.com/user/onlyofficeTV" src="https://download.onlyoffice.com/assets/logo/opensource/yt.png"></a>
   <a href="https://www.instagram.com/the_onlyoffice/"><img alt="https://www.instagram.com/the_onlyoffice/" src="https://download.onlyoffice.com/assets/logo/opensource/in.png"></a>
 </p>
--->
+
 <p align="center">
   <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="http://www.apache.org/licenses/LICENSE-2.0" src="https://img.shields.io/badge/License-Apache%20v2.0-green.svg?style=flat"></a>
   <a href="https://github.com/ONLYOFFICE/CommunityServer/releases"><img alt="https://github.com/ONLYOFFICE/CommunityServer/releases" src="https://img.shields.io/badge/release-11.0.0-blue.svg"></a>
@@ -82,3 +82,4 @@ If you have any problems with or questions about [ONLYOFFICE][2], please visit o
   [2]: https://github.com/ONLYOFFICE
   [3]: http://stackoverflow.com/questions/tagged/onlyoffice
 
+-->
